@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Industrial Log Digitizer
+
+A web application to digitize handwritten industrial water quality logs into CSV format using Gemini AI.
 
 ## Getting Started
 
